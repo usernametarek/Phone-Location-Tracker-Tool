@@ -5,10 +5,11 @@ This tool enables you to track the location of any phone number, including both 
 <h2>How to use</h2>
 <ol>
     <li>To get started, simply clone this repository or download the tracker2.py file.</li>
-    <li>Open the tracker2.py file in your preferred code editor.</li>
-    <li>Locate the <code>phone_number</code> variable in the code and change its value to the phone number you wish to track.</li>
+    <li>Open the tracker2.py file in your code editor.</li>
+    <li>Locate the <code>phone_number</code> variable in the code and change its value to the phone number you wish to track. Dont forget to add your country code in the phone number</li>
     <li>Save your changes and run the code!</li>
 </ol>
+<h5>Please note that this tool is not 100% perfect and may not always provide the expected results. This tool utilizes a free API, which may impact its performance and reliability. Use it with caution and at your own discretion.</h5>
 
 ![hack2](https://github.com/user-attachments/assets/a88a4a25-fbe2-41f9-bf1d-139fce905d57)
 ![image](https://github.com/user-attachments/assets/adb06586-30f6-4060-a423-7c54c70c49db)
